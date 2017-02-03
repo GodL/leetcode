@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0A52EBC4FA39AFB54D0A23B00C4D47D9197DEBC8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0A52EBC4FA39AFB54D0A23B00C4D47D9197DEBC8" : 9223372036854775807,
+    "1E6A6AFA8FD184A9666119397C1D8872BE1E4596" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D749056-A697-49A1-8512-9F56C62BB808",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0A52EBC4FA39AFB54D0A23B00C4D47D9197DEBC8" : "leetcode\/",
+    "1E6A6AFA8FD184A9666119397C1D8872BE1E4596" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LeetCodeDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LeetCodeDemo\/LeetCodeDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/godL\/leetcode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A52EBC4FA39AFB54D0A23B00C4D47D9197DEBC8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/godL\/LHDB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E6A6AFA8FD184A9666119397C1D8872BE1E4596"
+    }
+  ]
+}
